@@ -1,0 +1,42 @@
+body {
+    background-color: #f8f9fa;
+    }
+    
+    .container {
+    margin-top: 50px;
+    }
+    
+    .card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    .card-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    }
+    
+    .card-text {
+    font-size: 18px;
+    margin-bottom: 10px;
+    }
+    
+    .form-label {
+    font-size: 18px;
+    font-weight: bold;
+    }
+    
+    .form-control {
+    border-radius: 5px;
+    }
+    
+    .btn-primary {
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    }
